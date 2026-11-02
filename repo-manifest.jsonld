@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lixxu/flask-paginate/commit/f51a23a625757d964c0208e75ccee4c833c05977",
       "git:hexsha": "f51a23a625757d964c0208e75ccee4c833c05977",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/lixxu/flask-paginate/commit/224384e890498d8300f3d292effa0a315f93c5e0",
