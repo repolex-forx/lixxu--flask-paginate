@@ -1,0 +1,11 @@
+{
+  "org": "lixxu",
+  "repo": "flask-paginate",
+  "versions": [
+    {
+      "commit": "f51a23a625757d964c0208e75ccee4c833c05977",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:50:10.194327+00:00"
+    }
+  ]
+}
